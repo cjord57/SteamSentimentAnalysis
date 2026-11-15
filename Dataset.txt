@@ -1,0 +1,2 @@
+Link to dataset since too large to share CSV file:
+https://www.kaggle.com/datasets/andrewmvd/steam-reviews
