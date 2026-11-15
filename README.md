@@ -1,0 +1,1 @@
+See sections "1. Introduction and Objectives" and "2. Dataset Overview" in "Steam Sentiment Analysis Project Report - Corey Jordan-Zamora" for more information on this SteamSentimentAnalysis repository/project.
